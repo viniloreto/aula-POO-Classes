@@ -1,5 +1,5 @@
 
-package newpackage;
+package br.com.fatecpg.oo;
 
 
 public class Data {

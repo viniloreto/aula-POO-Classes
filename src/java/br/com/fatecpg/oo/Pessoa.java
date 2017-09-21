@@ -1,5 +1,5 @@
 
-package newpackage;
+package br.com.fatecpg.oo;
 
 import java.util.Date;
 
